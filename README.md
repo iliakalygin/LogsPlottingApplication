@@ -29,7 +29,7 @@ Python-based plotting application built using the NiceGUI and Plotly framework. 
 
 ## Tools and Versions Used in Development
 
-| Name    | Version |
+| Tools   | Version |
 |---------|---------|
 | python  | 3.11.2  |
 | nicegui | 2.1.0   |
